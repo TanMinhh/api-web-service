@@ -1,0 +1,32 @@
+[
+    {
+        "name": "banana",
+        "price": "10000",
+        "currency": "VND",
+        "company": "Bach Hoa Xanh"
+    },
+    {
+        "name": "apple",
+        "price": "8000",
+        "currency": "VND",
+        "company": "Coop Extra"
+    },
+    {
+        "name": "Orange",
+        "price": "6000",
+        "currency": "VND",
+        "company": "Tap Hoa Dau Duong"
+    },
+    {
+        "name": "Watermelon",
+        "price": "30000",
+        "currency": "VND",
+        "company": "Tap Hoa Dau Duong"
+    },
+    {
+        "name": "Strawberry",
+        "price": "40000",
+        "currency": "VND",
+        "company": "Bach Hoa Xanh"
+    }
+]
