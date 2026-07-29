@@ -1,13 +1,13 @@
-# Thư mục chứa các gói phụ thuộc
+# Dependencies
 node_modules/
 jspm_packages/
 
-# File cấu hình môi trường bảo mật
+# Environment Files
 .env
 .env.test
 .env.production
 
-# Nhật ký hoạt động và lỗi (Logs)
+# Logs
 logs/
 *.log
 npm-debug.log*
@@ -15,15 +15,15 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-# Thư mục build hoặc biên dịch (nếu dùng TypeScript/Babel)
+# Build and Compile
 dist/
 build/
 
-# Kiểm tra độ bao phủ mã nguồn (Test coverage)
+# Test coverage
 coverage/
 .nyc_output/
 
-# Cấu hình hoặc bộ nhớ đệm của IDE và hệ điều hành
+# IDE and System
 .DS_Store
 Thumbs.db
 .vscode/
